@@ -91,7 +91,14 @@ class App extends Component {
             handleEdit={this.handleEdit}/>
 					</div>
 				</div>
+        <footer>
+          By Antony Nyagah
+          <br>
+          </br>
+          This app uses Google Books API
+        </footer>
 			</div>
+      
 		)
 	}
 }
