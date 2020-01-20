@@ -93,9 +93,8 @@ class App extends Component {
 				</div>
         <footer>
           By Antony Nyagah
-          <br>
-          </br>
-          This app uses Google Books API
+          
+    
         </footer>
 			</div>
       
